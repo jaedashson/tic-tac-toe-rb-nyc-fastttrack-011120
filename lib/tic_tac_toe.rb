@@ -133,7 +133,5 @@ end
 # CODE ABOVE THIS LINE IS WORKING
 ################################################################################
 def play
-  loop do
 
-  end
 end
