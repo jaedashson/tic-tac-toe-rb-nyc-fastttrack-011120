@@ -133,7 +133,7 @@ end
 ################################################################################
 def play(board)
   until over?(board)
-    turn move
+    turn(board)
   end
 
 
