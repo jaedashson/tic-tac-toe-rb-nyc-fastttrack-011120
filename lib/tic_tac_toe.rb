@@ -41,7 +41,6 @@ def valid_move?(board, index)
   end
 end
 
-# BROKEN.
 def turn(board)
   puts "Please enter 1-9:"
   input = gets.strip
@@ -134,7 +133,7 @@ end
 ################################################################################
 def play(board)
   until over?(board)
-
+    turn move
   end
 
 
