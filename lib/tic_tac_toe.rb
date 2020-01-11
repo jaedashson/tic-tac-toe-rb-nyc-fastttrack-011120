@@ -133,6 +133,9 @@ end
 # CODE ABOVE THIS LINE IS WORKING
 ################################################################################
 def play(board)
-
+  until over?(board)
+    
+  end
+  
 
 end
