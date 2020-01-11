@@ -132,6 +132,7 @@ end
 
 # CODE ABOVE THIS LINE IS WORKING
 ################################################################################
-def play
+def play(board)
+
 
 end
